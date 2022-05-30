@@ -1,0 +1,99 @@
+.huvudrubrik{
+   
+    background: beige;
+    top: 40px;  
+    width: 100vw;
+    justify-content: left;
+    align-items: center;
+    border-bottom: 3px black solid;
+    border-top: 3px black solid;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.bild{
+    position: absolute;
+    justify-content: right;
+    top: 35px;
+    right: 35px;
+    
+}
+
+.rubrik{
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.text1{
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.lista{
+    
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    font-size: small;
+    justify-content: center;
+    
+    
+}
+.lista2{
+    border-bottom: 3px black solid;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    font-size: small;
+    justify-content: center;
+    
+    
+}
+.Strängnäs{
+    margin-left: 15vw;
+    
+}
+.Eskilstuna{
+    margin-left: 15vw;
+    
+}
+ul{
+    margin-left: 40px;
+    font-size: larger;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.knapp1{
+
+    justify-content: right;
+   
+    font-size: larger;
+    position: absolute; top: 35%;
+    margin-left: 80%;
+
+
+}
+.knapp2{
+
+    justify-content: right;
+   
+    font-size: larger;
+    position: absolute; top: 45%;
+    margin-left: 80%;
+
+
+}
+.bild2{
+   
+    justify-content: right;
+    float: right;
+    margin-right: 10vw;
+    margin-bottom: 20px;
+}

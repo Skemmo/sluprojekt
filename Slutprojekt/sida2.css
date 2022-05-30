@@ -1,0 +1,36 @@
+body{
+
+    background: linear-gradient(160deg, #fd9f3b 50%, #ffed4b 50%);
+}
+.höger{
+    position: absolute; left: 65%;
+
+    position: absolute; top: 45%;
+
+}
+.vänster{
+    position: relative; left: 9%;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-top: 03%;
+    margin-bottom: 03%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.knapp1{
+    margin-left: 64%;
+    margin-top: 4%;
+    position: absolute; top: 15%;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    background-color: rgb(225, 233, 72);
+}
+.bild{
+    margin-left: 30%;
+    
+    margin-bottom: 7%;
+}
